@@ -1,4 +1,4 @@
-# Regime-switching-in-financial-tick-data
+# Regime-switching-in-financial-bar-data
 
 Abstract:
 
